@@ -11,7 +11,7 @@ Authors:  C. Campi, F. Marchetti, E. Perracchione,
 
 Last modified: 14/05/20.
 
-The scripts provide examples for using SVM-VSK as feature augmentation and
+The scripts provide examples for using SVM-VSK as feature augmentation algorithms and
 as an alternative to feature extraction schemes (as explained in the 
 related publication).
 
